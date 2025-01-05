@@ -7,6 +7,7 @@ The code is in the sageMath programming language which is build on python and is
 
 ---
 
+
 ## What Are Quaternions?
 Quaternions are mathematical objects with four components:
 - **Real part (1)**
